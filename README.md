@@ -1,10 +1,9 @@
 ### 👋 ¡Hola! Soy Tatiana Forero
 
-- 👀 Me interesa el desarrollo de software, especialmente proyectos en Python, bases de datos relacionales.
-- 🌱 Actualmente estoy aprendiendo Python, Git, GitHub, y bases de datos con MySQL. También he explorado el desarrollo web con HTML, CSS y JavaScript.
+- 👀 Me interesa el desarrollo de software, especialmente proyectos en Python. Aporto al aprendizaje de formaciones SENA.
+- 🌱 Actualmente estoy aprendiendo Machine Learning.
 - 💞️ Me gustaría colaborar en proyectos de código abierto para seguir aprendiendo y aportar a la comunidad.
 - 📫 Puedes contactarme por Email: tattafore@gmail.com o en LinkedIn: www.linkedin.com/in/tatiana-alexandra-forero-granada
-- 😄 Pronombres: ella / she
 - ⚡ Dato curioso: Me gusta la fotografía y leer.
 
 ### 🚀 Proyectos destacados - Estoy empezando en este mundo del desarrollo, me ha gustado mucho.
