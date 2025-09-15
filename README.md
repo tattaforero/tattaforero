@@ -1,15 +1,28 @@
-### 👋 ¡Hola! Soy Tatiana Forero
+👋 Hola, soy Tatiana Forero
 
-- 👀 Me interesa el desarrollo de software, especialmente proyectos en Python. Aporto al aprendizaje de formaciones SENA.
-- 🌱 Actualmente estoy aprendiendo Machine Learning.
-- 💞️ Me gustaría colaborar en proyectos de código abierto para seguir aprendiendo y aportar a la comunidad.
-- 📫 Puedes contactarme por Email: tattafore@gmail.com o en LinkedIn: www.linkedin.com/in/tatiana-alexandra-forero-granada
-- ⚡ Dato curioso: Me gusta la fotografía y leer.
+Soy desarrolladora en formación permanente y creadora de material educativo de programación y software, con especial interés en apoyar el aprendizaje práctico de estudiantes ADSO. Mi objetivo es generar recursos claros, estructurados y accesibles que faciliten la comprensión de conceptos técnicos y el desarrollo de habilidades prácticas.
 
-### 🚀 Proyectos destacados - Estoy empezando en este mundo del desarrollo, me ha gustado mucho.
+🌱 Actualmente profundizo en Machine Learning y desarrollo recursos educativos en Python.
+💞️ Me interesa colaborar en proyectos de código abierto y educación tecnológica.
+📫 Puedes contactarme por Email: tattafore@gmail.com o en LinkedIn: www.linkedin.com/in/tatiana-alexandra-forero-granada
 
-- [Zona Fit CRUD](https://github.com/tattaforero/Zona_Fit_CRUD): Aplicación de consola en Python que gestiona clientes de un gimnasio con operaciones CRUD sobre MySQL.
+### 🚀 Proyectos destacados 
+
+Material ADSO SENA
+– Repositorio de recursos, guías y ejercicios prácticos diseñados para apoyar el aprendizaje de estudiantes ADSO de manera estructurada y clara.
+Zona Fit CRUD
+– Aplicación de consola en Python que gestiona clientes de un gimnasio con operaciones CRUD sobre MySQL.
+
+### 🎥 Canal de YouTube: Tatiana Forero | Tutoriales de Programación y Software
+
+https://www.youtube.com/@tatianaalexandraforerogran8370
+
+Aquí comparto:  
+
+- Tutoriales paso a paso y recursos prácticos de programación  
+- Material complementario para reforzar el aprendizaje activo  
+- Contenido diseñado para estudiantes ADSO y quienes quieren aprender programación de manera clara y estructurada  
 
 ---
 
-Gracias por visitar mi perfil 😊 ¡Estoy construyendo mi portafolio y aprendiendo cada día! Bienvenidas todas las recomendaciones y aportes!
+Gracias por visitar mi perfil 😊 ¡Todas las recomendaciones, sugerencias y contribuciones son bienvenidas!
