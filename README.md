@@ -6,10 +6,10 @@ Soy desarrolladora en formación permanente y creadora de material educativo de 
 - 💞️ Me interesa colaborar en proyectos de código abierto y educación tecnológica.
 - 📫 Puedes contactarme por Email: tattafore@gmail.com o en LinkedIn: www.linkedin.com/in/tatiana-alexandra-forero-granada
 
-### 🚀 Proyectos destacados 
+### 🚀 Proyectos destacados
 
-- Material ADSO SENA: Repositorio de recursos, guías y ejercicios prácticos diseñados para apoyar el aprendizaje de estudiantes ADSO de manera estructurada y clara.
-- Zona Fit CRUD: Aplicación de consola en Python que gestiona clientes de un gimnasio con operaciones CRUD sobre MySQL.
+- [Material ADSO SENA](https://github.com/tattaforero/Material_ADSO_SENA) – Repositorio de recursos, guías y ejercicios prácticos diseñados para apoyar el aprendizaje de estudiantes ADSO.  
+- [Zona Fit CRUD](https://github.com/tattaforero/Zona_Fit_App_Consola) – Aplicación de consola en Python que gestiona clientes de un gimnasio con operaciones CRUD sobre MySQL.
 
 ### 🎥 Canal de YouTube: Tatiana Forero | Tutoriales de Programación y Software
 
